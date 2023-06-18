@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33711.374
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoDotnet8", "DemoDotnet8\DemoDotnet8.csproj", "{50796BF7-1B2B-488B-BEC8-EC904B7D8BDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoAspNetCore8", "DemoAspNetCore8\DemoAspNetCore8.csproj", "{93298B63-442B-49AF-9384-7D10EF565036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50796BF7-1B2B-488B-BEC8-EC904B7D8BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50796BF7-1B2B-488B-BEC8-EC904B7D8BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50796BF7-1B2B-488B-BEC8-EC904B7D8BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50796BF7-1B2B-488B-BEC8-EC904B7D8BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93298B63-442B-49AF-9384-7D10EF565036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93298B63-442B-49AF-9384-7D10EF565036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93298B63-442B-49AF-9384-7D10EF565036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93298B63-442B-49AF-9384-7D10EF565036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75380AAD-27DB-4424-91BA-1F0E9E757DC2}
+	EndGlobalSection
+EndGlobal
