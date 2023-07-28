@@ -11,7 +11,6 @@ public class Product(string name, int categoryId)
 
     public string Name => name;
     public int CategoryId => categoryId;
-
     public string ProductDescription { get; private set; }
 }
 
