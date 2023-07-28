@@ -1,7 +1,5 @@
 ﻿var product1 = new Product(); // Gives: Name = "Default", CategoryId = -1
-
 var product2 = new Product("Basic"); // Gives: Name = "Basic", CategoryId = 0
-
 var product3 = new Product("My product", 1); // Gives: Name = "Default", CategoryId = -1
 
 Console.ReadLine();
